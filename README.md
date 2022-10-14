@@ -16,3 +16,6 @@ This is a project of a responsive curriculum vitae of a person and giving it som
                   
  ### Credits
 HTML2PDF
+
+### Visit the site here
+https://res-cv.netlify.app/
